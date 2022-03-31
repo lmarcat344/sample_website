@@ -4,4 +4,19 @@
 .nav-spacing {
    margin: 0 0 0 10px;
 }
-
+.image-link {
+  text-decoration-line: none;
+}
+.tag-spacing {
+  padding: 10px;
+}
+.moby-header {
+  text-align: center;
+  margin: 0 0 80px;
+}
+.moby-quote {
+  style="font-style: italic;
+  font-size: 20px;
+  font-weight: bold;
+  color: red;
+}
